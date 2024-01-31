@@ -1,14 +1,12 @@
-import { AiFillPhone, AiOutlineMail, AiFillEnvironment } from 'react-icons/ai'
+import { AiOutlineMail, AiFillEnvironment } from 'react-icons/ai'
 
 import '../styles/components/informationcontainer.sass'
 
 const InformationContainer = () => {
     return <section id="information">
         <div className="info-card">
-            <AiFillPhone id="phone-icon" />
             <div>
-                <h3>Telefone</h3>
-                <p>(48) 99607-5636</p>
+                <p>Gostou do meu trabalho? Sugestões de melhoria? Entre em contato comigo!</p>
             </div>
         </div>
         <div className="info-card">
