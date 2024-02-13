@@ -45,7 +45,7 @@
 
 :heavy_check_mark: Funcionalidade 2 Botão para visualizar Projetos: O portfólio disponibiliza um botão abaixo à esquerda, que possibilita acesso ao link com o perfil do Github, local em que é possível verificar repositórios criados.
 
-:heavy_check_mark: Funcionalidade 3 Botão nome visitante: O portfólio disponibiliza um botão acima à direita, em que ao usuário clicar é solicitado seu nome e após o usuário preencher seu nome, é enviado uma mensagem de boas- vindas, utilizando o nome preenchido. Após esta interação, o nome do usuário fica registrado logo abaixo do botão, com a mensagem "Olá, (nome usuário)". Caso o usuário não preencha algum nome, o aviso de boas- vindas é emitido sem nome preenchido e não há o registro do nome e a mensagem "Olá,...." não fica registrada abaixo do referido botão.
+:heavy_check_mark: Funcionalidade 3 Botão nome visitante: O portfólio disponibiliza um botão acima à direita que solicita o nome do usuário. Caso o nome seja preenchido, é enviado uma mensagem de boas-vindas, utilizando o nome preenchido. Após esta interação, o nome do usuário fica registrado logo abaixo do botão, com a mensagem "Olá, (nome usuário)". Em caso de não preenchimento, o aviso de boas-vindas é emitido sem nome e a mensagem "Olá,...." não fica registrada abaixo do referido botão.
 
 :heavy_check_mark: Funcionalidade 4 Botões de acesso às Redes Sociais: O portfólio disponibiliza dois botões abaixo da foto de perfil, que direcionam aos links das Redes Sociais LinkedIn e GitHub.
 
