@@ -104,7 +104,6 @@ Não foi utilizado banco de dados neste repositório.
 - [Vite] (https://vitejs.dev/)
 - [JavaScript]
 - [HTML5]
-- [CSS3]
 - [Sass] (https://sass-lang.com/install/)
 
 ## Acesso ao projeto
